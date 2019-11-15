@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 /****
- * @param - Controller que sera a home da aplicacao
+ * 
  * @author Alex Silva
- * {@link} alexdomingos13@icloud.com
+ * @version 0.0.1
  */
 
 

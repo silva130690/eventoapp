@@ -10,10 +10,9 @@ import org.springframework.context.annotation.Profile;
 
 
 /****
- * @param - Class que trata da comunicacao com o banco de dados
- * @param - Perfil utilizado para teste da aplicacao - dev
+ * Class que trata da comunicacao com o banco de dados perfil utilizado para teste da aplicacao - dev
  * @author Alex Silva
- * {@link} alexdomingos13@icloud.com
+ * @version 0.0.1
  */
 
 

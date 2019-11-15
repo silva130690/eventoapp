@@ -16,9 +16,11 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 
 /****
- * @param - Class que sera minha entidade(tabela) no banco de dados 
+ * Class que sera minha entidade(tabela) no banco de dados 
  * @author Alex Silva
- * {@link} alexdomingos13@icloud.com
+ * @version 0.0.1
+ * @Entity Nao permite que os campos esteja em branco
+ * @OneToMany Relacionamento de um para muitos
  */
 
 

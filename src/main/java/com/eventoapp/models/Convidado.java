@@ -6,9 +6,10 @@ import javax.persistence.ManyToOne;
 import org.hibernate.validator.constraints.NotEmpty;
 
 /****
- * @param - Class que trata dos atributos do convidados 
+ * Class que trata dos atributos do convidados 
  * @author Alex Silva
- * {@link} alexdomingos13@icloud.com
+ * @Entity Permite que o campo nao esteja em branco
+ * @version 0.0.1
  */
 
 

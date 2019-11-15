@@ -18,9 +18,9 @@ import com.eventosapp.repository.EventoRepository;
 @Controller
 
 /****
- * @param - Controller que trata do roteamento para cada pagina de evento
+ * Controller que trata do roteamento para cada pagina de evento
  * @author Alex Silva
- * {@link} alexdomingos13@icloud.com
+ * @version 0.0.1
  */
 
 public class EventoController {
